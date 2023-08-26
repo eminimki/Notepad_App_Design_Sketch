@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">TasarimTestleri</string>
+    <string name="note_add_button">Note Add Button</string>
+    <string name="myNotes">My Notes</string>
+    <string name="calendar">Calendar</string>
+    <string name="filter">Filter</string>
+    <string name="settings">Settings</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="note_header_area">NOTE HEADER AREA</string>
+    <string name="note_content_area">NOTE CONTENT AREA</string>
+    <string name="alarm">Alarm</string>
+    <string name="lock">Lock</string>
+    <string name="type_note_name">Type note name</string>
+</resources>
